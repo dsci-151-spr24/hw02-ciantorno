@@ -1,5 +1,6 @@
 ---
 title: "HW 04 - What should I major in?"
+author: "Chiara Iantorno"
 output: 
   tufte::tufte_html:
     css: ../hw.css
@@ -10,7 +11,7 @@ link-citations: true
 
 ```{r include = FALSE}
 knitr::opts_chunk$set(
-  eval = FALSE,
+  eval = TRUE,
   out.width = "80%",
   fig.asp = 0.618,
   fig.width = 10,
